@@ -1,7 +1,6 @@
 function initViz() {
     var containerDiv = document.getElementById("vizContainer"),
-        // url = "https://public.tableau.com/views/FinalProjectVisualizations_15719671459750/SleepDisturbances?:embed=y&:display_count=yes&:origin=viz_share_link",
-        url = "https://public.tableau.com/shared/DNS48FDHC?:display_count=y&:origin=viz_share_link"
+        url = "https://public.tableau.com/shared/59Q5FTBKK?:display_count=n&:origin=viz_share_link",
         options = {
             hideTabs: true,
             onFirstInteractive: function () {
